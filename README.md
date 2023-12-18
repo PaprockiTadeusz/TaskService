@@ -14,7 +14,7 @@ Ensure Docker and Docker Compose are installed and running on your machine. You 
 ### Cloning the Repository
 First, clone the repository to your local machine using Git:
 ```bash
-git clone [repository-url]
+git clone https://github.com/PaprockiTadeusz/TaskService
 cd [repository-directory]
 ```
 Replace `[repository-url]` with the URL of the Git repository and `[repository-directory]` with the name of the created directory.
